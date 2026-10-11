@@ -3,7 +3,7 @@ name = "elite3e-mcp"
 version = "0.1.0"
 description = "MCP server for Elite 3E: matters, clients, timecards and cost cards"
 readme = "README.md"
-requires-python = ">=3.12,<3.13"
+requires-python = ">=3.10"
 license = { text = "MIT" }
 dependencies = [
     "httpx>=0.28.1,<1",
@@ -16,7 +16,11 @@ classifiers = [
     "Operating System :: OS Independent",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
     "Topic :: Office/Business",
 ]
 

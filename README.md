@@ -1,7 +1,7 @@
 # Elite 3E MCP server
 
 [![CI](https://github.com/RosenAdvertising/elite3e-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/RosenAdvertising/elite3e-mcp/actions/workflows/ci.yml)
-[![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![MCP](https://img.shields.io/badge/MCP-2026--07--28-7C3AED.svg)](https://modelcontextprotocol.io)
 
@@ -45,7 +45,7 @@ See [Safe pending-time workflow](#safe-pending-time-workflow) for the order to c
 
 ## Requirements
 
-- Python 3.12
+- Python 3.10+
 - An MCP client such as Claude Desktop
 - Customer-issued Elite 3E OAuth client credentials and API instance details
 
